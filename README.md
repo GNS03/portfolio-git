@@ -1,4 +1,4 @@
-# Git e GitHub
+# Git e Github
 
 ## Curso de extensão sobre Git e GitHub administrado pelos alunos do CEFET Divinópolis
 
@@ -9,3 +9,5 @@
 
 [IBM-Cognitive-Class--Exploratory-Data-Analysis](https://github.com/GNS03/IBM-Cognitive-Class--Exploratory-Data-Analysis)
 [IBM Cognitive Class Recommendation System](https://github.com/GNS03/IBM-Cognitive-Class-Recommendation-System)
+
+# Habilidades
