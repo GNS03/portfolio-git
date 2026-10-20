@@ -8,3 +8,4 @@
 ## Meus Projetos
 
 [IBM-Cognitive-Class--Exploratory-Data-Analysis](https://github.com/GNS03/IBM-Cognitive-Class--Exploratory-Data-Analysis)
+[IBM Cognitive Class Recommendation System](https://github.com/GNS03/IBM-Cognitive-Class-Recommendation-System)
