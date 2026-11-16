@@ -11,3 +11,13 @@
 [IBM Cognitive Class Recommendation System](https://github.com/GNS03/IBM-Cognitive-Class-Recommendation-System)
 
 # Habilidades
+- Criação de:
+    - Repositórios, 
+    - Commits, 
+    - Issues,
+    - Branches,
+    - Pull-Requests
+    
+- Realizar:
+    - Branch Merges,
+    - Fechamento de issue com pull-request
