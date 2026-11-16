@@ -7,3 +7,13 @@
 
 # Habilidades
 
+- Criação de:
+    - Repositórios, 
+    - Commits, 
+    - Issues,
+    - Branches,
+    - Pull-Requests
+    
+- Realizar:
+    - Branch Merges,
+    - Fechamento de issue com pull-request
