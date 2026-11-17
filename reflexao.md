@@ -1,0 +1,3 @@
+O curso de Git e Github, administrado pelos alunos [@JV-NC](https://github.com/JV-NC) e [@Joao-santos-oliveira](https://github.com/Joao-santos-oliveira) do CEFET Divinópolis serviu como uma boa introdução ao objetivo e funcionamento do uso do Git, incluindo a criação de repositórios commits e branches. 
+
+O curso foi bem explicativo, e os alunos organizadores foram extremamente atenciosos a cada pergunta realizado pelos alunos, explicando novamente o conteúdo e resolvendo atividades de exemplo, posso confirmar que este curso me ajudou a melhorar meu conhecimento em Git e ajudou a ampliar as minhas skills na área de computação.
