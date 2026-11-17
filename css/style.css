@@ -51,6 +51,18 @@ a {
     color: green;
     text-decoration: none;
     font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #00a000;
+    text-decoration: underline;
+    transform: scale(1.05);
+}
+
+a:focus {
+    outline: 2px solid green;
+    outline-offset: 3px;
 }
 
 
